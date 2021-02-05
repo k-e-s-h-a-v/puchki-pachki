@@ -1,2 +1,2 @@
 # puchki-pachki
-All my Random programs Here.
+All my random programs Here.
